@@ -1,7 +1,7 @@
-# Sonic-Boll-Mac
+![PloopyLogo](https://github.com/soulslimm/Sonic-Boll-Mac/blob/main/images/Screenshot%202021-05-16%20at%2012.03.10%20PM.png?raw=true)
 Playable Sonic Boll Wineskin wrappers.
 
-![GitHub Logo](/images/Screen_Shot_2021-05-16_at_2.35.38_AM.png)
+![Screenshot 1](/images/Screen_Shot_2021-05-16_at_2.35.38_AM.png)
 
 ## Links
 [The Website](https://soulslimm.github.io/Sonic-Boll-Mac/) | 
