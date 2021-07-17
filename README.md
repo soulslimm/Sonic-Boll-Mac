@@ -1,3 +1,5 @@
+## See the [Guide]()
+
 ![PloopyLogo](https://github.com/soulslimm/Sonic-Boll-Mac/blob/main/images/Screenshot%202021-05-16%20at%2012.03.10%20PM.png?raw=true)
 
 ## Screenshots
