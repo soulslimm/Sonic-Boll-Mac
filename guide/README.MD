@@ -61,6 +61,6 @@ If there are pop-ups that say Wine Mono or Gecko. Install Them.
 
 # Installing Boll
 
-##### WIP
+##### Unfinished
 
-##### Work Progress
+###### Progress (0%)
