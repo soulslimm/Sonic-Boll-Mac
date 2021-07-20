@@ -59,8 +59,40 @@ Name it anything. I'm naming it Sonic Boll for this case. Then press OK
 
 If there are pop-ups that say Wine Mono or Gecko. Install Them.
 
+Click (View wrapper in Finder)
+
+![View](https://media.discordapp.net/attachments/839853987548364842/867071118077329438/Screen_Shot_2021-07-20_at_11.50.27_AM.png?width=426&height=224)
+
 # Installing Boll
 
-##### Unfinished
+Extract SONIC BOLL 2.0.rar using [The Unarchiver](https://dl.devmate.com/com.macpaw.site.theunarchiver/TheUnarchiver.dmg)
+
+Open the wrapper
+
+Click Install Software
+
+![soft1](https://media.discordapp.net/attachments/839853987548364842/867076253647503400/Screen_Shot_2021-07-20_at_12.10.17_PM.png?width=300&height=238)
+
+Click Copy A Folder Inside
+
+![foldr](https://media.discordapp.net/attachments/839853987548364842/867076527958392852/Screen_Shot_2021-07-20_at_12.12.09_PM.png?width=572&height=363)
+
+Select the Boll Folder and press Choose
+
+![bollfolder](https://media.discordapp.net/attachments/839853987548364842/867077216760365106/Screen_Shot_2021-07-20_at_12.14.47_PM.png?width=729&height=448)
+
+Make sure this says sonicboll-VER.exe and press OK
+
+![verexe](https://media.discordapp.net/attachments/839853987548364842/867078059031265280/Screen_Shot_2021-07-20_at_12.16.01_PM.png?width=562&height=242)
+
+Close out of Wineskin
+
+Double Click the Sonic Boll File
+
+And you're done!
+
+# Optional Touch-UPS
+
+##### Unfinished Guide
 
 ###### Progress (0%)
