@@ -41,7 +41,7 @@ You want to click the (+) in the Installed Engines area.
 
 ![engine](https://media.discordapp.net/attachments/839853987548364842/867066711797530644/Screen_Shot_2021-07-20_at_11.32.41_AM.png?width=210&height=150)
 
-Now, Install "WS11WineCX64Bit20.0.2" By Finding the engine and clicking "Download And Install"
+Now, Install the most recent engine by clicking "Download And Install"
 
 ![WS11](https://media.discordapp.net/attachments/839853987548364842/867067402454040596/Screen_Shot_2021-07-20_at_11.35.39_AM.png?width=345&height=351)
 
