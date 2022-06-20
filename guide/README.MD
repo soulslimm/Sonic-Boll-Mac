@@ -6,7 +6,7 @@ You will need.
 
 [Newest Sonic Boll (stable)](https://mega.nz/file/LowygTKB#QWQjr8Qa47iMkxmfo_9r-Ty2ELeIOd_UAuFSx2AGsqI)
 
-This only works on MacOS 1.13-11
+This only works on MacOS 1.13-12
 
 x64 and Silicon(Rosetta2) Macs Only
 
